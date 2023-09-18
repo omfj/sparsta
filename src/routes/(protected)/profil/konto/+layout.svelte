@@ -13,7 +13,6 @@
 	});
 
 	export let data: PageData;
-	const { user } = data;
 	$: accounts = data.accounts;
 
 	const { form, errors, reset, enhance } = superForm(data.createBankAccountForm, {
