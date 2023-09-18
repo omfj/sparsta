@@ -21,6 +21,9 @@
 						<a class="block p-2 rounded hover:bg-gray-100" href="/overfor">Overfør penger</a>
 					</li>
 					<li>
+						<a class="block p-2 rounded hover:bg-gray-100" href="/chat">Chat</a>
+					</li>
+					<li>
 						<form action="/logg-ut" method="POST" use:enhance>
 							<button class="block p-2 rounded hover:bg-gray-100" type="submit"> Logg ut</button>
 						</form>

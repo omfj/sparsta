@@ -2,6 +2,14 @@
 
 Enkel bank app laget med SvelteKit.
 
+Dette er min innlevering for kodeoppgaven til Stacc - Future of Fintech høst 2023. [Se oppgaven her](https://github.com/stacc/stacc-challenge-public/tree/budgeting-and-savings).
+
+Prøv live på [sparsta.vercel.app](https://sparsta.vercel.app/).
+
+## Demo
+
+![](./.github/demo.mp4)
+
 ## Hvordan kjøre
 
 1. Klon repoet
