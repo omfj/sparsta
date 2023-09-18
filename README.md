@@ -8,7 +8,7 @@ Prøv live på [sparsta.vercel.app](https://sparsta.vercel.app/).
 
 ## Demo
 
-![](./.github/demo.mp4)
+https://github.com/omfj/sparsta/blob/main/.github/demo.mp4
 
 ## Hvordan kjøre
 
